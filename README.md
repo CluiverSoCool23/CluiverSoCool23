@@ -11,8 +11,6 @@ Outside of programming, i enjoy music, fitness, and continually challenging myse
 
 I'm always looking for help and feedback on writing cleaner code, structuring larger projects, and preparing for software engineering internships.
 
-<!--
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Yeah_yeah789) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Cluiver Mayaya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Cluiver.mulume@yahoo.com) 
 
